@@ -1,3 +1,5 @@
+
+کد نویسی شده توسط تیم پمپ نت و تیم جنیکس
 <div align="center">
 
 <img src="jinx-hero.svg" width="100%" alt="Super JinX">
